@@ -1,0 +1,15 @@
+Solution for aa_abbbbcccc to aababbcbcc_c
+
+
+aa_a
+bbbb
+cccc
+
+aaba
+bb_b
+cccc
+
+aaba
+bbcb
+cc_c
+

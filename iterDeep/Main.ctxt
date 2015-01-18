@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=input
+comment0.target=Main(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n\ Input\:\ the\ location\ of\ the\ file\ containing\ the\ puzzles\r\n
+comment1.params=config\ dest
+comment1.target=java.util.LinkedList\ iterativeDeep(java.lang.String,\ java.lang.String)
+comment2.params=config\ dest\ depth
+comment2.target=java.util.LinkedList\ depthFirst(java.lang.String,\ java.lang.String,\ int)
+comment3.params=currentConfig
+comment3.target=java.util.LinkedList\ nextConfigs(java.lang.String)
+numComments=4

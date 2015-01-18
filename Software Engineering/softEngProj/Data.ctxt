@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Data()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Data.\ Should\ take\ a\ File\ object\r\n\ and\ read\ off,\ but\ atm,\ data\ will\ be\ fed\ by\ hand.\ Will\ *definately*\ be\r\n\ reworked.\r\n
+comment1.params=
+comment1.target=java.util.LinkedList\ createFlights()
+comment1.text=\r\n\ Main\ program\ of\ class.\ Creates\ flights\ from\ data.\ Again,\ data\ is\ currently\ \r\n\ being\ fed\ in\ by\ hand.Extremely\ bad.\r\n
+comment2.params=path
+comment2.target=java.lang.String\ readFile(java.lang.String)
+numComments=3

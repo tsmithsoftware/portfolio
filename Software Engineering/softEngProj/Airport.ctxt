@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=airCode
+comment0.target=Airport(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCode()
+comment2.params=code
+comment2.target=void\ setCode(java.lang.String)
+comment3.params=
+comment3.target=int\ getLocalOffset()
+comment4.params=localTime
+comment4.target=void\ setLocalOffset(int)
+numComments=5
