@@ -1,0 +1,1 @@
+Contains the base htdocs directory of an apache server and an sql database. The two files comprise an online database showing basic database access and manipulation skills
